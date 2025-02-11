@@ -1,0 +1,40 @@
+.title h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+
+}
+.stack li{
+    color:red
+}
+#first span {
+    font-size: 20px;
+    font-weight: 700;
+  }
+.second {
+    color: #0000ff;
+    font-style: italic;
+}
+
+.head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: green;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.language{
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+}
+.smt{
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+}
+.smt-2{
+    font-family: 'Times New Roman', Times, serif;
+    color: #924763;
+    font-style: italic;
+}

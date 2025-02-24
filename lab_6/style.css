@@ -1,0 +1,25 @@
+.form .right { 
+    text-align: right;
+
+}
+
+.form{
+    width: 500px;
+    border: 1px solid black;
+}
+.main{
+    font-weight: bold;
+	text-align: right;
+	margin: 0px;
+    font-weight: bold;
+	font-style: italic;
+}
+
+ul {
+	margin: 0px;
+}
+
+textarea{
+    resize:vertical;
+    width: 450px;
+}

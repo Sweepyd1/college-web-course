@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="" class="form">
+      <p class="right">Бланк заказа товара</p>
+
+      <span class="main">Номер Вашего банковского счета:</span>
+      <input type="text" />
+      <br />
+      <span class="main">Ваш пароль:</span>
+      <input type="password" />
+      <br />
+      <span class="main">Метод оплаты:</span>
+      <br />
+      <label><input type="radio" name="pay" />Наличный расчет</label>
+      <br />
+      <label><input type="radio" name="pay" />Беналичный расчет</label>
+      <br />
+      <span class="main">Список выбора товаров:</span>
+      <select>
+        <option value="">книга "программирование на языке Pascal"</option>
+        <option value="">книга "1С программирование"</option>
+      </select>
+      <br />
+      <span class="main"
+        >Какую дополнительную информацию Вы хотите получить:</span
+      >
+      <br />
+      <label><input type="checkbox" />Остаток счета</label>
+      <br />
+      <label><input type="checkbox" />Список последних платежей</label>
+      <br />
+      <input type="submit" value="Отправить" />
+      <input type="reset" value="Очистить" />
+    </form>
+  </body>
+</html>
